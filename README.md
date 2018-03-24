@@ -1,5 +1,7 @@
 # Nooijen Web Solutions Coding Standards
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NooijenSolutions/Coding-Standards.svg)](https://greenkeeper.io/)
+
 [![Developed by](https://img.shields.io/badge/Developed%20by-Nooijen%20Web%20Solutions-green.svg)](https://nooijensolutions.nl) 
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
