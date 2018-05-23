@@ -1,6 +1,7 @@
 # Bytecode Digital Agency B.V. Coding Standards
 
 [![Developed by](https://img.shields.io/badge/Developed%20by-Bytecode.nl-green.svg)](https://bytecode.nl) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBytecodeBV%2FCoding-Standards.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBytecodeBV%2FCoding-Standards?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/BytecodeBV/Coding-Standards.svg?branch=master)](https://travis-ci.org/BytecodeBV/Coding-Standards)
 [![dependencies Status](https://david-dm.org/BytecodeBV/Coding-Standards/status.svg)](https://david-dm.org/BytecodeBV/Coding-Standards)
@@ -235,3 +236,7 @@ The following sources are used for the creation of this Coding Guidelines file, 
 
 * [Luciano Nooijen - Bytecode Digital Agency B.V.](https://bytecode.nl)
 * [Jeroen van Steijn - Bytecode Digital Agency B.V.](https://bytecode.nl)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBytecodeBV%2FCoding-Standards.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBytecodeBV%2FCoding-Standards?ref=badge_large)
